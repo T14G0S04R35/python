@@ -4,7 +4,7 @@ os.system("cls || clear")
 
 nome = input("Digite : ")
 idade = int(input("Digite : "))
- = float(input("Digite : "))
+
 
 
 
